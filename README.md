@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Write something.The last time.
 Git is a free software!
+debug
